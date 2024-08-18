@@ -1,61 +1,59 @@
-# Flutter UI Implementation Project
+# Educational Kids Game in Flutter
 
-## Overview
-Greetings to the Flutter UI Implementation project! In this project, you will be working with the Flutter framework to implement a set of user interfaces using a specific list of widgets. The goal is to enhance your proficiency in Flutter development and UI implementation.
+## Description
+An flutter app for kids, this app used on it custom widgets, colors, string, images, and text style. New features! you can Sign Up, and reset password, also Logout ! There is supabase packages for auth. 
 
+## Getting Started
 
-## UI to Implement
-You are required to implement the following Figma design user interfaces:
+### Dependencies
+- Flutter SDK
 
-- [Figma Design - Educational Kids Game](https://www.figma.com/file/hr7vmPgtKJd95quaTZr5bt/Educational-kids-game-(Community)?type=design&node-id=0%3A1&mode=design&t=z9KUqxH5qF2QA9xp-1)
+### Installing
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/imahacs/Assignment-11
+   ```
+2. **Clone the repository:**
+    ```bash
+    cd assignment_10
+     ```
+3. **Install the required dependencies:**
+    ```bash
+    flutter pub get
+    ```
+4. **Ensure that you have the Flutter SDK installed.** If not, download and install it from the Flutter's official website.
 
+## Executing Program
+To run the program, use the following command:
 
+    Flutter run
 
-## Mandatory List of Widgets
-You must use the following list of widgets in your implementations:
-- Column
-- Row
-- ListView or related widgets
-- AppBar 
-- TextField
-- Icon
-- Button
-- Image
+## Help
+For common issues or troubleshooting:
 
+- Ensure all dependencies are correctly installed.
+- Verify that your Flutter SDK is up to date.
+- Review the code and verify that data structures match expected formats.
+For additional help, consult the Flutter documentation or open an issue on the project's GitHub repository.
 
-
-## Requirements
-1. **Code Organization:**
-    - Organize your Flutter project in a clean and structured manner.
-    
-2. **Widget Usage:**
-    - Ensure that you use the specified list of widgets for UI implementation.
-    
-3. **Navigation:**
-    - Include navigation between different screens or sections within your app.
-
-
-
-## Submission Guidelines
-You will submit your project on GitHub by following these guidelines:
-1. Fork the Repository & Clone it
-2. Create a New Branch with your name, in this format: (First name - Last name), i.e. Nasser-GH
-3. Commit the changes frequently and push it
-4. Finally, create a pull request to the original repository
-
-**Note:**
-- This is an individual assignment, collaboration is not allowed, and each student should submit their unique work.
-- Be sure to include screenshots of the implemented UIs in your README file in your project
-- Make sure to apply the exact given UI as specified in the assignment. Do not add any additional elements or remove any existing ones. The UI should match the provided design precisely.
+### Example Usage
+<!-- <img src="assets/img/image.png" alt="Flutter" width="400" style= "" /> -->
+[Demo Flutter App](https://drive.google.com/file/d/1y-0LtlIa7qpNLZQUv2RKHQNlAfoEjdMv/view?usp=sharing)
 
 
 
-## Deadline 
-The deadline for submitting the project is 2024 Aug 18 at 9:59 AM
 
 
-## Additional Notes
-- Reach out for clarification or assistance if needed.
-- Have an enjoyable coding journey!
+## Authors
+- imahacs - [GitHub Profile](https://github.com/imahacs)
 
-Best of luck!
+## Version History
+- 0.1 - Initial Release
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+.
+
+## Acknowledgments
+- Inspired by various Flutter.
+- Thanks to the open-source community for their contributions and support.
