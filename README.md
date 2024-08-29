@@ -40,10 +40,6 @@ For additional help, consult the Flutter documentation or open an issue on the p
 
 ### App Demo
 
-![project3](https://github.com/user-attachments/assets/510576fb-c42b-4ad1-8026-c83e923ff2d3)
-
-
-
 https://github.com/user-attachments/assets/eb072642-af69-4f21-8f02-903f41032682
 
 
